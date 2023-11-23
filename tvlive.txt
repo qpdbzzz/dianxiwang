@@ -322,9 +322,6 @@ CCTV女性时尚,http://china.733240.com/cqyx.php?id=nvxing
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 
 广东综合,#genre#
-揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8
-汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
-潮州综合,http://dslive.grtn.cn/czzh/sd/live.m3u8
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 大湾区卫视,http://iptv.eatuo.com:9901/tsfile/live/1007_1.m3u8
 广东卫视,http://iptv.eatuo.com:9901/tsfile/live/1000_1.m3u8
@@ -3127,5 +3124,4 @@ Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?che
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8?ztianjd
 滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8?ztianjd
 滨海影院,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
-
 
